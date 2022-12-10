@@ -1,1 +1,1 @@
-# rsscool-cv
+https://wladyslawkrz.github.io/rsschool-cv/cv
