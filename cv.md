@@ -9,6 +9,5 @@
 * Github: [wladyslawkrz](https://github.com/wladyslawkrz)
 * LinkedIn: [Uladzislau Kviatkouski](https://www.linkedin.com/in/uladzislau-kviatkouski-02586924b/)
 
-====
 
 
