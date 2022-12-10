@@ -1,7 +1,5 @@
 # Uladzislau Kviatkouski
 
-====
-
 ## My contact info:
 
 * Phone: +375 (25) 774-47-80
