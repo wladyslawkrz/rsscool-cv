@@ -43,9 +43,9 @@ function hexStringToRGB(hexString) {
 
 ## Education 
 * I am currently studying at **Belarusian-Russian University**
-- Automated inforamtion processing systems
+    * Automated inforamtion processing systems
 
 ## Languages
-English - pre-intermediate (CEFR A2+);
-Russian;
-Belarussian;
+1. English - pre-intermediate (**CEFR A2+**);
+2. Russian;
+3. Belarussian;
