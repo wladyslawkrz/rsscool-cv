@@ -1,1 +1,1 @@
-https://wladyslawkrz.github.io/rsscool-cv/index
+https://wladyslawkrz.github.io/rsscool-cv/
