@@ -1,0 +1,79 @@
+.page {
+    max-width: 1024px;
+    margin: 0 auto;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.8;
+    color: #1a1919;
+    background-color: #dfdfdf;
+  }
+  
+  a {
+    color: #c73b10;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #1100ff;
+  }
+  
+  .header {
+    font-size: 16px;
+  }
+  
+  .photo {
+    height: 250px;
+    border: 3px solid #fff;
+    border-radius: 50% 35% 20%;
+  }
+  
+  .text-bold {
+    font-weight: 700;
+  }
+  
+  .text-italic {
+    font-style: italic;
+  }
+  
+  .contacts-item {
+    padding-left: 10px;
+    list-style: none;
+  }
+  
+  .feature-item {
+    list-style: none;
+  }
+  
+  .feature-item-skill {
+    list-style-type: square;
+  }
+  
+  .footer {
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-block {
+    margin-right: 40px;
+  }
+  
+  .footer-link {
+    color: #c81b05;
+  }
+  
+  .footer-link:hover {
+    color: #410ba0;
+  }
+  
+  .footer-text,
+  .github {
+    margin: 0;
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+  }
